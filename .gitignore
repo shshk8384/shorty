@@ -166,8 +166,8 @@ pip-log.txt
 ## Play Framework
 #####################
 
-/tmp
-/modules
-/lib
-/test-result
-/logs
+tmp/
+modules/
+lib/
+test-result/
+logs/
